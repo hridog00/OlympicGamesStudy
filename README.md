@@ -10,9 +10,10 @@ Requirments
 
 *Spanish Version*
 
-Descripción¶
+Descripción
 
 Este script se centra en los Juegos Olímpicos modernos y de como han ido evolucionando. Se ha obtenido un dataset que incluye información sobre todos los atletas que han participado en todas las ediciones desde 1896. Con estos datos se ha querido extraer conocimineto a mediante la tranformación de estos y su representación gráfica. Además, se ha querido realizar un conocimineto mas específico sobre el Atletismo, por lo que ha obtenido otro dataset que contiene los resultados obtenidos por los atlestas en todas las pruebas de dicho deporte.
+
 Tabla de contenidos
 
     Leer datos
